@@ -39,6 +39,12 @@ a {
     font-size: 0.7em;
 }
 
+.sticky {
+  position: sticky;
+  top: 0;
+  width: 100%;
+}
+
 @media only screen and (max-width: 600px) {
     .main-nav {
         font-size: 0.5em;
